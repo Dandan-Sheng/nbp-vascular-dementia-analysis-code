@@ -2,7 +2,7 @@
 
 ## Overview
 
-This package contains the first-batch SAS programs used to reproduce the principal efficacy, safety, and imaging analyses reported in the manuscript and its supplementary material. It includes the mixed model for repeated measures (MMRM) analyses for VaDAS-cog, ADCS-ADL, CIBIC-Plus, NPI, CDR-SB, and MMSE; the adverse-event analyses; and the analysis of covariance (ANCOVA) analyses for white matter hyperintensity (WMH) volume and brain parenchymal fraction (BPF).
+This package contains the SAS programs used to reproduce the principal efficacy, safety, and imaging analyses reported in the manuscript and its supplementary material. It includes the mixed model for repeated measures (MMRM) analyses for VaDAS-cog, ADCS-ADL, CIBIC-Plus, NPI, CDR-SB, and MMSE; the adverse-event analyses; and the analysis of covariance (ANCOVA) analyses for white matter hyperintensity (WMH) volume and brain parenchymal fraction (BPF).
 
 This is a code-only supplement. No participant-level data are included. The programs require the corresponding de-identified, analysis-ready datasets, which are managed and shared separately under the study's approved data-sharing arrangements.
 
